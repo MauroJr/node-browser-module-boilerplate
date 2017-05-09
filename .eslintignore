@@ -2,7 +2,11 @@
 
 # Ignore built files
 lib/*
+dist/*
 
 # Ignore coverage files
 coverage/*
 .nyc_output/*
+
+# Ignore webpack config.
+webpack.config.js
